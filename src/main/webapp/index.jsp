@@ -41,6 +41,26 @@
                 <hr class="my-4">
                 <p>Content</p>
             </div>
+            <div class="card-columns">
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title">Title</h5>
+                    <p class="card-text">Content</p>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title">Title</h5>
+                    <p class="card-text">Content</p>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title">Title</h5>
+                    <p class="card-text">Content</p>
+                  </div>
+                </div>
+            </div>
       </div>
       
     <!-- Optional JavaScript -->
